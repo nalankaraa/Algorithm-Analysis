@@ -1,0 +1,14 @@
+Category,Algorithm,Complexity,N,TimeMs
+MaxSubsequence,O(n^3),O(n^3),1000,359.579
+MaxSubsequence,O(n^2),O(n^2),1000,1.6772
+MaxSubsequence,O(n log n),O(n log n),1000,0.0599
+MaxSubsequence,Kadane,O(n),1000,0.004
+Sorting,Selection,O(n^2),1000,2.1305
+Sorting,Bubble,O(n^2),1000,7.274
+Sorting,Insertion,O(n^2),1000,2.3215
+Sorting,Merge,O(n log n),1000,0.3934
+Searching,LinearForward,O(n),1000,0.0006
+Searching,LinearBackward,O(n),1000,0.001
+Searching,BinarySearch,O(log n),1000,0.0003
+Heap,Insert+FindMin,O(log n),4,0.0003
+DP,FibonacciBottomUp,O(n),30,0.0011
